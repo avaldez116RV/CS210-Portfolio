@@ -1,1 +1,4 @@
 # CS210-Portfolio
+The goal of the Corner Grocer program was to create a program to read a text file of grocery items and to keep track of how many times an item was purchased. This program allows users to search for an item, display all of the item frequencies, print a histogram, and create a backup file. The program is organized into seperate files, uses a class to keep the code orgainzed, and if improving the program later better input validation can be added to make searching less uppercase/lowercase sensitive. 
+
+Getting the files to work together was the largest challenge. There were some compiler errors before everything worked. Working on separate files helped me understand how projects are put together. It was good to get more practice with classes, loops, file input and output, and functions. Using meaningful names helped keep the code orgainzed along with adding comments to be able to update later with ease. 
